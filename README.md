@@ -1,1 +1,1 @@
-# bright-kid-website
+# Bright-Edge-Edu-System-Website
